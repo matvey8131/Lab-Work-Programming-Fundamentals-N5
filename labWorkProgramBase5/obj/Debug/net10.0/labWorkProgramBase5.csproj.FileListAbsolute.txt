@@ -1,0 +1,16 @@
+C:\Users\LUCIFER\Documents\spiderman\labs\ProgramBase\labWorkProgramBase5\bin\Debug\net10.0\labWorkProgramBase5.exe
+C:\Users\LUCIFER\Documents\spiderman\labs\ProgramBase\labWorkProgramBase5\bin\Debug\net10.0\labWorkProgramBase5.deps.json
+C:\Users\LUCIFER\Documents\spiderman\labs\ProgramBase\labWorkProgramBase5\bin\Debug\net10.0\labWorkProgramBase5.runtimeconfig.json
+C:\Users\LUCIFER\Documents\spiderman\labs\ProgramBase\labWorkProgramBase5\bin\Debug\net10.0\labWorkProgramBase5.dll
+C:\Users\LUCIFER\Documents\spiderman\labs\ProgramBase\labWorkProgramBase5\bin\Debug\net10.0\labWorkProgramBase5.pdb
+C:\Users\LUCIFER\Documents\spiderman\labs\ProgramBase\labWorkProgramBase5\obj\Debug\net10.0\labWorkProgramBase5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUCIFER\Documents\spiderman\labs\ProgramBase\labWorkProgramBase5\obj\Debug\net10.0\labWorkProgramBase5.AssemblyInfoInputs.cache
+C:\Users\LUCIFER\Documents\spiderman\labs\ProgramBase\labWorkProgramBase5\obj\Debug\net10.0\labWorkProgramBase5.AssemblyInfo.cs
+C:\Users\LUCIFER\Documents\spiderman\labs\ProgramBase\labWorkProgramBase5\obj\Debug\net10.0\labWorkProgramBase5.csproj.CoreCompileInputs.cache
+C:\Users\LUCIFER\Documents\spiderman\labs\ProgramBase\labWorkProgramBase5\obj\Debug\net10.0\labWorkProgramBase5.dll
+C:\Users\LUCIFER\Documents\spiderman\labs\ProgramBase\labWorkProgramBase5\obj\Debug\net10.0\refint\labWorkProgramBase5.dll
+C:\Users\LUCIFER\Documents\spiderman\labs\ProgramBase\labWorkProgramBase5\obj\Debug\net10.0\labWorkProgramBase5.pdb
+C:\Users\LUCIFER\Documents\spiderman\labs\ProgramBase\labWorkProgramBase5\obj\Debug\net10.0\labWorkProgramBase5.genruntimeconfig.cache
+C:\Users\LUCIFER\Documents\spiderman\labs\ProgramBase\labWorkProgramBase5\obj\Debug\net10.0\ref\labWorkProgramBase5.dll
+C:\Users\LUCIFER\Documents\spiderman\labs\ProgramBase\labWorkProgramBase5\bin\Debug\net10.0\labWorkProgramBase5.xml
+C:\Users\LUCIFER\Documents\spiderman\labs\ProgramBase\labWorkProgramBase5\obj\Debug\net10.0\labWorkProgramBase5.xml

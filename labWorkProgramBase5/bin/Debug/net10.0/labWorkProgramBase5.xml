@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>labWorkProgramBase5</name>
+    </assembly>
+    <members>
+        <member name="T:LabWork5.ArrayWorker">
+            <summary>
+            Класс для работы с массивом целых чисел
+            </summary>
+        </member>
+        <member name="P:LabWork5.ArrayWorker.Size">
+            <summary>
+            Количество элементов в массиве
+            </summary>
+        </member>
+        <member name="M:LabWork5.ArrayWorker.#ctor">
+            <summary>
+            Конструктор без параметров. По умолчанию — 10 элементов
+            </summary>
+        </member>
+        <member name="M:LabWork5.ArrayWorker.#ctor(System.Int32)">
+            <summary>
+            Конструктор с параметрами
+            </summary>
+            <param name="size">Количество элементов в массиве</param>
+        </member>
+        <member name="M:LabWork5.ArrayWorker.getElementByidx(System.Int32)">
+            <summary>
+            Возвращает элемент массива по индексу
+            </summary>
+            <param name="idx">Индекс элемента</param>
+            <returns>Элемент массива</returns>
+        </member>
+        <member name="M:LabWork5.ArrayWorker.Fill">
+            <summary>
+            Заполняет массив случайными числами
+            </summary>
+        </member>
+        <member name="M:LabWork5.ArrayWorker.Copy">
+            <summary>
+            Создаёт копию массива
+            </summary>
+            <returns>Новый ArrayWorker — копия</returns>
+        </member>
+        <member name="M:LabWork5.ArrayWorker.GnomeSort">
+            <summary>
+            Гномья сортировка (сортирует собственный массив)
+            </summary>
+        </member>
+        <member name="M:LabWork5.ArrayWorker.ShellSort">
+            <summary>
+            Сортировка Шелла (сортирует собственный массив)
+            </summary>
+        </member>
+        <member name="M:LabWork5.ArrayWorker.ToString">
+            <summary>
+            Возвращает массив в виде строки (элементы через пробел)
+            </summary>
+        </member>
+        <member name="T:LabWork5.FunctionGame">
+            <summary>
+            Класс для игры по отгадыванию значения функции
+            </summary>
+        </member>
+        <member name="M:LabWork5.FunctionGame.CalculateFunction(System.Double,System.Double)">
+            <summary>
+            Метод вычисляет значение функции
+            </summary>
+            <param name="a">Параметр a</param>
+            <param name="b">Параметр b</param>
+            <returns>Значение функции</returns>
+        </member>
+        <member name="M:LabWork5.FunctionGame.CountingAttempts(System.Double)">
+            <summary>
+            Метод. Игра: угадать значение функции за 3 попытки
+            </summary>
+            <param name="result">Правильный ответ</param>
+        </member>
+        <member name="M:LabWork5.FunctionGame.GuessTheAnswerGame">
+            <summary>
+            Метод запускает игру
+            </summary>
+        </member>
+        <member name="T:LabWork5.InputValidator">
+            <summary>
+            Класс для проверки вводимых данных
+            </summary>
+        </member>
+        <member name="M:LabWork5.InputValidator.ErrorBeep">
+            <summary>
+            Ультравуковой сигнал неккоректно введеного значения для работы программы, потмоу что дауны
+            </summary>
+        </member>
+        <member name="M:LabWork5.InputValidator.UserValue(System.String,System.String)">
+            <summary>
+            Метод ввода вещественного числа с проверкой
+            </summary>
+            <param name="message">Сообщение для ввода</param>
+            <param name="errorMessage">Сообщение об ошибке</param>
+            <returns>Введённое число</returns>
+        </member>
+        <member name="M:LabWork5.InputValidator.UserPositiveInt(System.String,System.String)">
+            <summary>
+            Метод ввода целого числа с проверкой
+            </summary>
+            <param name="message">Сообщение для ввода</param>
+            <param name="errorMessage">Сообщение об ошибке</param>
+            <returns>Введённое число</returns>
+        </member>
+        <member name="T:LabWork5.SnakeGame">
+            <summary>
+            Класс реализации игры "Змiй"
+            </summary>
+        </member>
+        <member name="M:LabWork5.SnakeGame.ResetValues">
+            <summary>
+            Сбрасывает значения игры
+            </summary>
+        </member>
+        <member name="M:LabWork5.SnakeGame.GameExit">
+            <summary>
+            Выход из игры
+            </summary>
+        </member>
+        <member name="M:LabWork5.SnakeGame.DrawMenu">
+            <summary>
+            Лобби игры
+            </summary>
+            <returns>Номер выбранного пункта</returns>
+        </member>
+        <member name="M:LabWork5.SnakeGame.GameInformation">
+            <summary>
+            Информация об игре
+            </summary>
+        </member>
+        <member name="M:LabWork5.SnakeGame.StartGame">
+            <summary>
+            Запускает игру
+            </summary>
+        </member>
+        <member name="M:LabWork5.SnakeGame.Run">
+            <summary>
+            Вход в игру
+            </summary>
+        </member>
+        <member name="M:Program.AuthorInfo">
+            <summary>
+            Метод показывает информацию об авторе
+            </summary>
+        </member>
+        <member name="M:Program.ArraySortDemo">
+            <summary>
+            Метод показывает как работает прикольненький классик ArrayWorker: два конструктора, две сортировки и сравнение времени
+            </summary>
+        </member>
+        <member name="M:Program.ProgramExit">
+            <summary>
+            Метод спрашивает про выход
+            </summary>
+            <returns>true - выйти, false - остаться</returns>
+        </member>
+        <member name="M:Program.DrawMenu">
+            <summary>
+            Лобби
+            </summary>
+            <returns>Номер выбранного пункта</returns>
+        </member>
+        <member name="M:Program.Main">
+            <summary>
+            Метод входа в программу
+            </summary>
+        </member>
+    </members>
+</doc>
